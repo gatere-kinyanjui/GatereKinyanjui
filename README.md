@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GatereKinyanjui.
+- 👋 Hi, I’m @Gatere
 - 👀 I’m interested in Web & App development.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on any new project!
