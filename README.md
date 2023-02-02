@@ -1,3 +1,7 @@
+![Gatere's github stats](https://github-readme-stats.vercel.app/api?username=GatereKinyanjui&show_icons=true&theme=radical)
+
+![Gatere's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GatereKinyanjui&count_private=true&layout=compact&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m @Gatere
 - 👀 I’m interested in Web & App development.
 - 🌱 I’m currently learning Javascript.
