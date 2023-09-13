@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Gatere
 - 👀 I’m interested in Web & App development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Next.js.
 - 💞️ I’m looking to collaborate on any new project!
 - 📫 How to reach me - gaterekinyanjui@gmail.com
 
