@@ -3,7 +3,7 @@
 ![Gatere's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gatere-kinyanjui&count_private=true&layout=compact&show_icons=true&theme=radical)
 
 - Hi, I’m @Gatere
-- Self-taught Frontend Developer
+- Self-taught Web Developer
 
 Skills:
 - HTML5 & CSS3 (Proficient)
